@@ -237,3 +237,8 @@ Finally, if you want to restrict the search to a certain token range:
 This last is the basis for Hadoop, Spark and other MapReduce frameworks support.
 
 Please, refer to the comprehensive `Stratio’s Cassandra Lucene Index documentation <doc/src/site/sphinx/documentation.rst>`__.
+
+
+.. image:: https://badges.gitter.im/OrangeRhymeLabs/cassandra-lucene-index.svg
+   :alt: Join the chat at https://gitter.im/OrangeRhymeLabs/cassandra-lucene-index
+   :target: https://gitter.im/OrangeRhymeLabs/cassandra-lucene-index?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
